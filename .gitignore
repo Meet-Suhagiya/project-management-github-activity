@@ -1,6 +1,5 @@
 .idea
-completed-list.md
-master-pull-request.md
-things-i-don-t-understand.md
-things-i-learned.md
-things-i-want-to-know.md
+.github/ISSUE_TEMPLATE/completed-lists.md
+.github/ISSUE_TEMPLATE/master-pull-request.md
+.github/ISSUE_TEMPLATE/things-i-don-t-understand.md
+.github/ISSUE_TEMPLATE/things-i-want-to-know.md
